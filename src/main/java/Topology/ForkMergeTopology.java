@@ -1,24 +1,4 @@
-//package com.databricks.apps.logs.chapter1;
-//
-//import org.apache.spark.SparkConf;
-//import org.apache.spark.api.java.JavaRDD;
-//import org.apache.spark.api.java.function.FlatMapFunction;
-//import org.apache.spark.api.java.function.Function2;
-//import org.apache.spark.streaming.Duration;
-//import org.apache.spark.streaming.Time;
-//import org.apache.spark.streaming.api.java.JavaDStream;
-//import org.apache.spark.streaming.api.java.JavaStreamingContext;
-//
-//import java.io.File;
-//import java.util.*;
-//
-///**
-// * Created by anshushukla on 23/06/15.
-// */
-//public class TestSTreaming {
-//
-//
-//}
+
 
 
 package Topology;
